@@ -38,7 +38,7 @@
 1. **Клонируйте репозиторий**:
 
    ```bash
-   git clone https://github.com/your-username/nested_list.git
+   git clone https://github.com/aticq/nested_list/
    cd nested_list
    ```
 
